@@ -1,8 +1,4 @@
----
-title: "My Blog Test Is here to stay"
-date: 2018-12-06
----
-
+title: My First Blog
 author: Chuck B
 email: ecb.chuck@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
