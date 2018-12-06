@@ -3,7 +3,7 @@ title: "My Blog Test Is here to stay"
 date: 2018-12-06
 ---
 
-
+author: Chuck B
 email: ecb.chuck@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I am updating this yaml file in hopes to understand this better.
